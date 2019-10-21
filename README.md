@@ -1,6 +1,6 @@
 ------------------------------------------
 
-    Todo Application for reactJS
+    TodoList Application for reactJS
 
 -------------------------------------------
 # todoapp
